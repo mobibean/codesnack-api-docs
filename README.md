@@ -1,8 +1,10 @@
+**The API is deprecated. Please, contact me directly by E-mail bushevuv@gmail.com if you are interesting in API.**
+
 This document describes Cloud Compiler API.
 
 ### Create new Task
 
-`POST https://api-v2.cloud-compiler.com/tasks`
+`POST https://_deprecated_/tasks`
 
 #### Request Headers
 
